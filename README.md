@@ -17,4 +17,6 @@ Passer d'une box 2Gb "partagée" une box sous PFSense direct en 2Gb sans bridage
 
 ## Phase 4 - Installation et configuration de PFSense
  
+## Phase 5 - Installaiton et configuration de l'AP sour OpenWRT
+
 ## Post configuration
